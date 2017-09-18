@@ -25,7 +25,7 @@ else
 
    #SUDOKU_POM_HOME=/Users/kris/workspace-oxgen/SudokuSolutionsChecker
    JAR_FILE=sudokuvalidator-0.0.1-SNAPSHOT.jar
-   CLASS_WITH_MAIN=sudokuvalidator.SudokuSolutionValidator
+   CLASS_WITH_MAIN=com.kriskalwala.sudokuvalidator.SudokuSolutionValidator
    SUDOKU_FILE_TO_VALIDATE=$arg1    
        #validsudoku.txt
 
