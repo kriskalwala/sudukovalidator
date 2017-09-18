@@ -26,7 +26,6 @@ if [ -z "$1" ]; then
    echo 'example:  . validate.sh validsudoku.txt'
 
 else
-   echo '... executing'
 
    JAR_FILE=sudokuvalidator-0.0.1-SNAPSHOT.jar
    CLASS_WITH_MAIN=com.kriskalwala.sudokuvalidator.SudokuSolutionValidator
