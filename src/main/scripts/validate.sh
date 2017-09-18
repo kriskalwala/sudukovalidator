@@ -15,7 +15,7 @@ if [ -z "$1" ]; then
    echo ''
    echo 'usage : '
    echo 'macbook-air:scripts kris$ pwd'
-   echo '/Users/kris/workspace-oxgen/SudokuSolutionsChecker/src/main/scripts'
+   echo '/Users/kris/workspace-oxgen/sudokuvalidator/src/main/scripts'
    echo ''
    echo 'macbook-air:scripts kris$ . validate.sh <SUDOKU_FILE_TO_VALIDATE>'
    echo ''
