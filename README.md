@@ -77,16 +77,16 @@ from SUDOKU_POM_HOME run :
     run APP directly:
     
     $ java -cp /Users/kris/workspace-oxgen/sudokuvalidator/target/sudokuvalidator-0.0.1-SNAPSHOT.jar 
-    sudokuvalidator.SudokuSolutionValidator /Users/kris/workspace-oxgen/SudokuSolutionsChecker/target/test-
+    sudokuvalidator.SudokuSolutionValidator /Users/kris/workspace-oxgen/sudokuvalidator/target/test-
     classes/validsolution.txt
 
     $ java -cp /Users/kris/workspace-oxgen/sudokuvalidator/target/sudokuvalidator-0.0.1-SNAPSHOT.jar 
-    sudokuvalidator.SudokuSolutionValidator /Users/kris/workspace-oxgen/SudokuSolutionsChecker/target/test-
+    sudokuvalidator.SudokuSolutionValidator /Users/kris/workspace-oxgen/sudokuvalidator/target/test-
     classes/invalidsolution.txt
 
 
     $java -cp /Users/kris/workspace-oxgen/sudokuvalidator/target/sudokuvalidator-0.0.1-SNAPSHOT.jar 
-    sudokuvalidator.SudokuSolutionValidator /Users/kris/workspace-oxgen/SudokuSolutionsChecker/target/test-
+    sudokuvalidator.SudokuSolutionValidator /Users/kris/workspace-oxgen/sudokuvalidator/target/test-
     classes/toValidateSolution.txt
 
 
