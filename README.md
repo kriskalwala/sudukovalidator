@@ -106,4 +106,4 @@ from SUDOKU_POM_HOME run :
     
     run:
     
-    validate.bat (located in project in the same directory as validate.sh)
+    validate.bat <SUDOKU_FILE_TO_VALIDATE.txt> (located in project in the same directory as validate.sh)
